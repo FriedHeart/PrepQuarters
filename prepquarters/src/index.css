@@ -159,7 +159,6 @@ html {
   scroll-behavior: smooth;
   background-color: var(--bg-canvas);
   color: var(--text-primary);
-  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 body {
@@ -171,7 +170,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
   position: relative;
-  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 /* Ambient Radial Glows (ZERO Grid lines) */

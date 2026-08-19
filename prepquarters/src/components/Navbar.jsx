@@ -141,7 +141,6 @@ function Navbar() {
           backdropFilter: "blur(16px)",
           WebkitBackdropFilter: "blur(16px)",
           borderBottom: "1px solid var(--border-subtle)",
-          transition: "background 0.2s ease, border-color 0.2s ease",
         }}
       >
         {/* Brand Identity - Always links directly to Home */}
